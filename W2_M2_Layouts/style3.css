@@ -1,0 +1,53 @@
+/* Heading/footer */
+h2 {margin-left: 40px;}
+footer {text-align: right;}
+
+/* Main Tab */ 
+nav ul {
+    font-size: 16px;
+    list-style: none;
+}
+
+nav ul.heads li {display: inline;}
+
+nav ul.heads li a {
+    text-decoration: none;
+    color: #2949f4;
+}
+
+nav ul li a:hover {background-color: #c9c9c9;}
+
+/* Image */
+img {
+    width: 500px;
+    height: 300px;
+}
+
+/* Continents */
+
+.continent {
+    width: 105px;
+    text-align: right;
+}
+
+/* City */
+
+nav.city {
+    width: 170px;
+    padding-left: 15px;
+}
+
+nav.city a {
+    text-decoration: underline;
+    color: #2949f4;
+}
+
+nav.city a:hover{background-color: #c9c9c9;}
+
+/* Tables */
+table {
+    margin-left: 38px;
+    border-collapse: collapse;
+    margin-bottom: 27px;
+}
+

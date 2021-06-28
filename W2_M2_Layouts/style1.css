@@ -1,0 +1,37 @@
+body {background-color: #f7e6a0;}
+
+header {
+        background-color: #172390;
+        color: white;
+        line-height: 28px;
+        /* padding-top: 0.5px; */
+}
+
+
+header > h1 {padding-top: 8px;}
+
+section > h3 {
+               background-color:#9c56c3;
+               color: white;
+               padding-top: 2px;
+}
+
+#dev {
+        text-align:right;
+}
+
+a {color: white; text-decoration: none;}
+a:hover {text-decoration: underline;}
+
+aside {
+        color: black;
+        background-color: white;
+        line-height: 5px;
+        float: right;
+        width: 400px;
+        height: 61px;
+        padding: 3px;
+        padding-left: 9px;
+        margin: 5px;
+
+}
