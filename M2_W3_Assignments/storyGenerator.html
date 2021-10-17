@@ -1,0 +1,83 @@
+<!DOCTYPE html >
+<html lang="en">
+  <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="author" content="Dammy 'Gobljnn' Adebayo">
+        <link rel="stylesheet" href="assets/storystyle.css" media= "all">
+        <meta name="description" content="This page is for chapter 10 Adlib story generator">
+        <meta name="keywords" content="robertson, college, assignment 2,rowing,federation, css, gobljnn">
+        <title>Story Generator</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+        <link rel="icon" href="assets/pic/book.jpg">
+        <style type="text/css">
+        </style>
+        <script src="assets/storyscript.js">   
+
+        </script>
+  </head>
+
+  <body>
+      <div class="container"> 
+        
+
+        <div id="heading">
+            <div> <h2>Story Generator</h2> </div>
+            <p>
+                Enter appropriate values in all of the text boxes. Then click the <span class="done">Done</span> button to generate a story
+                with your entered values plugged into it.
+            </p>
+        </div>
+        <section id="index">
+            <div>
+                <div class="table">
+                    <div class="row">
+                    
+                        <form class="story" id="story" name="story">
+                            <label for="noun">noun: </label>
+                            <input type="text" id="noun" class="textBox" name="noun" required> <br>
+
+                            <label for="ptv1">past tense verb: </label>
+                            <input type="text" class="textBox" id="ptv1" name="ptv" required > <br>
+
+                            <label for="adject1">adjective: </label>
+                            <input type="text" class="textBox" id="adject1" name="adject" required> <br>
+
+                            <label for="ptv2">past tense verb: </label>
+                            <input type="text" class="textBox" id="ptv2" name="ptv" required> <br>
+
+                            <label for="adject2">adjective: </label>
+                            <input type="text" class="textBox" id="adject2" name="adject" required> <br>
+
+                            <input type="button" value="Submit" class="subButton" id="subButton"
+                                    form="story" onmouseover="cChangeOn1()" onmouseout="cChangeOff()" onclick="genStory() ">
+
+                            <input type="reset" value="Reset" class="resetButton" id="resetButton"
+                                    onmouseover="cChangeOn2()" onmouseout="cChangeOff()"> 
+                        
+                        </form>
+                    </div>
+                </div>  
+            </div>
+        </section>
+
+        <section id="adLib">
+            <div class="genText" id="genText">
+                    <output id="output">
+                        "It was a dark and stormy night. Suddenly, a shot rang out! A <span class="missing">door</span> slammed. The maid <span class="missing">screamed</span>. Suddenly, a <span class="missing">pirate</span> ship appeared on the horizon! While millions of people were <span class="missing">starving</span>, the king lived in luxury. Meanwhile, on a <span class="missing">small</span> farm in Kansas, a boy was growing up."                  
+                    </output> <br>
+                    <p>The End</p>
+
+                    <input type="button" value="Return" class="subButton" id="retButton" onclick="goBack()" 
+                            onmouseover="cChangeOn1()" onmouseout="cChangeOff()">
+            </div>
+        </section>
+      </div>
+    </body>
+    <footer>
+        <code> Developed by ODINxGaming &copy </code>
+    </footer>
+</html>

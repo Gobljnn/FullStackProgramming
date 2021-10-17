@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Dammy 'Gobljnn' Adebayo">
+    <meta name="description" content="This page is for chapter 8 Compass Games">
+    <meta name="keywords" content="robertson, college, assignment 3,compass,game, css, gobljnn">
+    <link rel="shortcut icon" href="assets/pic/compass.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="assets/compstyle.css" media= "all">
+    <title>Compass Games</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style type="text/css">
+      * { font-family: 'times new roman', 'Nunito Sans', sans-serif; }
+    </style>
+    <script src="assets/compscript.js">
+
+    </script>
+  </head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h2> Compass Games</h2>
+        </div>
+
+        <div>The direction letters on the "compass" are scrambled. Press the arrows to properly position the direction letters.</div>
+        <div>
+            <table>
+                <tbody>
+                    <tr>
+                        <td class="arrow1">
+                            <input id="compButton1" class="compButton" type="button" value="&#8644" 
+                            onclick="wnSwitch()" onmouseover="cChangeOn1()" onmouseout="cChangeOff1()" >
+                        </td>
+                        <td id="top"> <h2 id="top2">E</h2></td> 
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td id="left"> <h2 id="left2">N</h2></td>
+                        <td class="arrow">
+                            <input id="compButton2" class="compButton" type="button" value="&#8644" 
+                            onclick="weSwitch()" onmouseover="cChangeOn2()" onmouseout="cChangeOff2()">
+                        </td>
+                        <td id="right"> <h2 id="right2">S</h2></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td id= "bottom"> <h2 id="bottom2">W</h2></td>
+                        <td class="arrow1">
+                            <input id="compButton3" class="compButton" type="button" value="&#8644" 
+                            onclick="seSwitch()" onmouseover="cChangeOn3()" onmouseout="cChangeOff3()">
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="restart">
+            <p >
+                To restart the game, press <i>Restart</i>, enter <b>N</b>, <b>S</b>, <b>E</b>, and <b>W</b> in any order in the boxes
+                below, and then press <i>Update.</i> <br>
+            </p>
+            <input class="button" type="reset" value ="Restart" onclick="restart();unLock();unLockColour();">
+        </div>
+
+        <div class="update">
+            <form>
+                <p>
+                    Top:
+                    <input type="text" name="Top-MiddleCell" id="newtop" size="2">
+                    Left:
+                    <input type="text" name="Left-MiddleCell" id="newleft" size="2">
+                    Right:
+                    <input type="text" name="Right-MiddleCell" id="newright" size="2">
+                    Bottom:
+                    <input type="text" name="Bottom-MiddleCell" id="newbottom" size="2">
+                    
+                </p>
+                <input class="button" type="button" value="Update" onclick="update(); lock(); lockColour();">
+            </form>
+        </div>
+
+    </div>
+    <footer>
+        <code>Developed by ODINxGaming &copy</code>
+    </footer>
+</body>
+</html>
