@@ -1,0 +1,16 @@
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment2_BigInt\bin\Debug\net5.0\M9_W1_Assignment2_BigInt.exe
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment2_BigInt\bin\Debug\net5.0\M9_W1_Assignment2_BigInt.deps.json
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment2_BigInt\bin\Debug\net5.0\M9_W1_Assignment2_BigInt.runtimeconfig.json
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment2_BigInt\bin\Debug\net5.0\M9_W1_Assignment2_BigInt.runtimeconfig.dev.json
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment2_BigInt\bin\Debug\net5.0\M9_W1_Assignment2_BigInt.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment2_BigInt\bin\Debug\net5.0\ref\M9_W1_Assignment2_BigInt.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment2_BigInt\bin\Debug\net5.0\M9_W1_Assignment2_BigInt.pdb
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment2_BigInt\obj\Debug\net5.0\M9_W1_Assignment2_BigInt.csproj.AssemblyReference.cache
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment2_BigInt\obj\Debug\net5.0\M9_W1_Assignment2_BigInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment2_BigInt\obj\Debug\net5.0\M9_W1_Assignment2_BigInt.AssemblyInfoInputs.cache
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment2_BigInt\obj\Debug\net5.0\M9_W1_Assignment2_BigInt.AssemblyInfo.cs
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment2_BigInt\obj\Debug\net5.0\M9_W1_Assignment2_BigInt.csproj.CoreCompileInputs.cache
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment2_BigInt\obj\Debug\net5.0\M9_W1_Assignment2_BigInt.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment2_BigInt\obj\Debug\net5.0\ref\M9_W1_Assignment2_BigInt.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment2_BigInt\obj\Debug\net5.0\M9_W1_Assignment2_BigInt.pdb
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment2_BigInt\obj\Debug\net5.0\M9_W1_Assignment2_BigInt.genruntimeconfig.cache

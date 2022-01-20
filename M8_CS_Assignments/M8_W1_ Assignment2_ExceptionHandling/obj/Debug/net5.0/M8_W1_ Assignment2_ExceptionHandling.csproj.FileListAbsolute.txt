@@ -1,0 +1,16 @@
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_ Assignment2_ExceptionHandling\bin\Debug\net5.0\M8_W1_ Assignment2_ExceptionHandling.exe
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_ Assignment2_ExceptionHandling\bin\Debug\net5.0\M8_W1_ Assignment2_ExceptionHandling.deps.json
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_ Assignment2_ExceptionHandling\bin\Debug\net5.0\M8_W1_ Assignment2_ExceptionHandling.runtimeconfig.json
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_ Assignment2_ExceptionHandling\bin\Debug\net5.0\M8_W1_ Assignment2_ExceptionHandling.runtimeconfig.dev.json
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_ Assignment2_ExceptionHandling\bin\Debug\net5.0\M8_W1_ Assignment2_ExceptionHandling.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_ Assignment2_ExceptionHandling\bin\Debug\net5.0\ref\M8_W1_ Assignment2_ExceptionHandling.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_ Assignment2_ExceptionHandling\bin\Debug\net5.0\M8_W1_ Assignment2_ExceptionHandling.pdb
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_ Assignment2_ExceptionHandling\obj\Debug\net5.0\M8_W1_ Assignment2_ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_ Assignment2_ExceptionHandling\obj\Debug\net5.0\M8_W1_ Assignment2_ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_ Assignment2_ExceptionHandling\obj\Debug\net5.0\M8_W1_ Assignment2_ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_ Assignment2_ExceptionHandling\obj\Debug\net5.0\M8_W1_ Assignment2_ExceptionHandling.AssemblyInfo.cs
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_ Assignment2_ExceptionHandling\obj\Debug\net5.0\M8_W1_ Assignment2_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_ Assignment2_ExceptionHandling\obj\Debug\net5.0\M8_W1_ Assignment2_ExceptionHandling.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_ Assignment2_ExceptionHandling\obj\Debug\net5.0\ref\M8_W1_ Assignment2_ExceptionHandling.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_ Assignment2_ExceptionHandling\obj\Debug\net5.0\M8_W1_ Assignment2_ExceptionHandling.pdb
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_ Assignment2_ExceptionHandling\obj\Debug\net5.0\M8_W1_ Assignment2_ExceptionHandling.genruntimeconfig.cache

@@ -1,0 +1,112 @@
+﻿@*@model IEnumerable<Course>*@
+
+@* above code is used when not using DTO*@
+
+@model IEnumerable<M10_W1_Assignment1_MockDB.ModelsDto.CourseDto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<h1>List of Courses</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.courseID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.courseName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.courseDesc)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.courseID)
+                </td>
+                <td>
+
+                    <span style="cursor: pointer"
+                          onclick="showStudents('@item.courseID', '@item.courseName')"
+                          data-toggle="modal" data-target="#exampleModal">
+                        @Html.DisplayFor(modelItem => item.courseName)
+                    </span>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.courseDesc)
+                    
+                </td>
+                <td onclick="setCourses('@item.courseID', '@item.courseName', '@item.courseDesc'); getCourses()">
+                    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Modal -->
+<div class="modal fade scrollable" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel"></h5>
+                <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Modal -->
+@*<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                ...
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+        </div>
+    </div>
+</div>*@
+
+<script>
+    function showStudents(id, courseName) {
+        const url = "@Url.Action("GetStudentsByCourseId", "Students")/" + id; //method controller respectively
+        console.log("showStudents called - Course click on is : ", id +" : ", courseName);
+
+        //using $ sign to access jQuery library
+        $.get(url, function (data) {
+            console.log(data);
+            $(".modal-body").html(data);
+            $("#exampleModalLabel").html(courseName + " student's list");
+        });
+    }
+</script>

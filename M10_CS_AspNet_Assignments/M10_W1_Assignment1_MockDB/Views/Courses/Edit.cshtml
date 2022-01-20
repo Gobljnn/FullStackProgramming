@@ -1,0 +1,62 @@
+﻿@model M10_W1_Assignment1_MockDB.ModelsDto.CourseDto
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        id = localStorage.getItem("courseID");
+        courseName = localStorage.getItem("courseName");
+        courseDesc = localStorage.getItem("courseDesc");
+
+        //using $ sign to access jQuery library
+
+        $("#courseID").val(id);
+        $("#courseName").val(courseName);
+        $("#courseDesc").val(courseDesc);
+        $("#courseTitle").append(courseName + ", ID: " + id);
+        @*$("#exampleModal").modal('show');*@
+    });
+
+
+</script>
+
+<h1>Edit</h1>
+
+<h4 id="courseTitle"></h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="courseID" class="control-label"></label>
+                <input asp-for="courseID" class="form-control" id="courseID" readonly/>
+                <span asp-validation-for="courseID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="courseName" class="control-label"></label>
+                <input asp-for="courseName" class="form-control" id="courseName"/>
+                <span asp-validation-for="courseName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="courseDesc" class="control-label"></label>
+                <input asp-for="courseDesc" class="form-control" id="courseDesc" />
+                <span asp-validation-for="courseDesc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

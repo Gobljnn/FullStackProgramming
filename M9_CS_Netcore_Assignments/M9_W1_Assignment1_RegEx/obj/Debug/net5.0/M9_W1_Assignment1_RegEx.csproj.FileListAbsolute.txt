@@ -1,0 +1,32 @@
+C:\Users\Dammy\source\repos\M9_W1_Assignment1_RegEx\bin\Debug\net5.0\M9_W1_Assignment1_RegEx.exe
+C:\Users\Dammy\source\repos\M9_W1_Assignment1_RegEx\bin\Debug\net5.0\M9_W1_Assignment1_RegEx.deps.json
+C:\Users\Dammy\source\repos\M9_W1_Assignment1_RegEx\bin\Debug\net5.0\M9_W1_Assignment1_RegEx.runtimeconfig.json
+C:\Users\Dammy\source\repos\M9_W1_Assignment1_RegEx\bin\Debug\net5.0\M9_W1_Assignment1_RegEx.runtimeconfig.dev.json
+C:\Users\Dammy\source\repos\M9_W1_Assignment1_RegEx\bin\Debug\net5.0\M9_W1_Assignment1_RegEx.dll
+C:\Users\Dammy\source\repos\M9_W1_Assignment1_RegEx\bin\Debug\net5.0\ref\M9_W1_Assignment1_RegEx.dll
+C:\Users\Dammy\source\repos\M9_W1_Assignment1_RegEx\bin\Debug\net5.0\M9_W1_Assignment1_RegEx.pdb
+C:\Users\Dammy\source\repos\M9_W1_Assignment1_RegEx\obj\Debug\net5.0\M9_W1_Assignment1_RegEx.csproj.AssemblyReference.cache
+C:\Users\Dammy\source\repos\M9_W1_Assignment1_RegEx\obj\Debug\net5.0\M9_W1_Assignment1_RegEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dammy\source\repos\M9_W1_Assignment1_RegEx\obj\Debug\net5.0\M9_W1_Assignment1_RegEx.AssemblyInfoInputs.cache
+C:\Users\Dammy\source\repos\M9_W1_Assignment1_RegEx\obj\Debug\net5.0\M9_W1_Assignment1_RegEx.AssemblyInfo.cs
+C:\Users\Dammy\source\repos\M9_W1_Assignment1_RegEx\obj\Debug\net5.0\M9_W1_Assignment1_RegEx.csproj.CoreCompileInputs.cache
+C:\Users\Dammy\source\repos\M9_W1_Assignment1_RegEx\obj\Debug\net5.0\M9_W1_Assignment1_RegEx.dll
+C:\Users\Dammy\source\repos\M9_W1_Assignment1_RegEx\obj\Debug\net5.0\ref\M9_W1_Assignment1_RegEx.dll
+C:\Users\Dammy\source\repos\M9_W1_Assignment1_RegEx\obj\Debug\net5.0\M9_W1_Assignment1_RegEx.pdb
+C:\Users\Dammy\source\repos\M9_W1_Assignment1_RegEx\obj\Debug\net5.0\M9_W1_Assignment1_RegEx.genruntimeconfig.cache
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment1_RegEx\bin\Debug\net5.0\M9_W1_Assignment1_RegEx.exe
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment1_RegEx\bin\Debug\net5.0\M9_W1_Assignment1_RegEx.deps.json
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment1_RegEx\bin\Debug\net5.0\M9_W1_Assignment1_RegEx.runtimeconfig.json
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment1_RegEx\bin\Debug\net5.0\M9_W1_Assignment1_RegEx.runtimeconfig.dev.json
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment1_RegEx\bin\Debug\net5.0\M9_W1_Assignment1_RegEx.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment1_RegEx\bin\Debug\net5.0\ref\M9_W1_Assignment1_RegEx.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment1_RegEx\bin\Debug\net5.0\M9_W1_Assignment1_RegEx.pdb
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment1_RegEx\obj\Debug\net5.0\M9_W1_Assignment1_RegEx.csproj.AssemblyReference.cache
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment1_RegEx\obj\Debug\net5.0\M9_W1_Assignment1_RegEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment1_RegEx\obj\Debug\net5.0\M9_W1_Assignment1_RegEx.AssemblyInfoInputs.cache
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment1_RegEx\obj\Debug\net5.0\M9_W1_Assignment1_RegEx.AssemblyInfo.cs
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment1_RegEx\obj\Debug\net5.0\M9_W1_Assignment1_RegEx.csproj.CoreCompileInputs.cache
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment1_RegEx\obj\Debug\net5.0\M9_W1_Assignment1_RegEx.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment1_RegEx\obj\Debug\net5.0\ref\M9_W1_Assignment1_RegEx.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment1_RegEx\obj\Debug\net5.0\M9_W1_Assignment1_RegEx.pdb
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M9_C#_NetCore\Assignments\M9_W1_Assignment1_RegEx\obj\Debug\net5.0\M9_W1_Assignment1_RegEx.genruntimeconfig.cache

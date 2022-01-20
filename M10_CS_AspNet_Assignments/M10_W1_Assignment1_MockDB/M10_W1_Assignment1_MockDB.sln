@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M10_W1_Assignment1_MockDB", "M10_W1_Assignment1_MockDB.csproj", "{12FDE0F3-5B1F-42D2-A6A1-C8AA652AD1BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12FDE0F3-5B1F-42D2-A6A1-C8AA652AD1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12FDE0F3-5B1F-42D2-A6A1-C8AA652AD1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12FDE0F3-5B1F-42D2-A6A1-C8AA652AD1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12FDE0F3-5B1F-42D2-A6A1-C8AA652AD1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55E06451-2BF1-40AF-B251-F0C275CFF379}
+	EndGlobalSection
+EndGlobal

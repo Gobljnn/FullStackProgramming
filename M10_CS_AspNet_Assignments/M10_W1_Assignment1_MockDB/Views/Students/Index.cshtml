@@ -1,0 +1,92 @@
+﻿@*@model IEnumerable<Student>*@
+@* above code is used when not using DTO*@
+@*The @model statement at the top of the view file specifies the type of object that the view expects.*@
+
+@model IEnumerable<M10_W1_Assignment1_MockDB.ModelsDto.StudentDto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>List of Students</h1>
+<script>
+    function clearStorage() {
+        localStorage.clear();
+    }
+</script>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+@*<input type="button" name="names" value="clear" onclick="clearStorage();" />*@
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.stuID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.firstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.lastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.phoneNum)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.courseID)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.stuID)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.firstName)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.lastName)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.email)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.phoneNum)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.courseID)
+                </td>
+
+                <td>
+                    <span onclick="setStudents ('@item.stuID', '@item.firstName', '@item.lastName', '@item.email', '@item.phoneNum', '@item.courseID') ">
+                        @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ })
+                        @*edit*@
+                    </span>  |
+                    <span onclick="setStudents('@item.stuID', '@item.firstName', '@item.lastName', '@item.email', '@item.phoneNum', '@item.courseID'); getStudents()">
+                        @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ })
+                        @*details*@
+                        |
+                    </span>
+
+
+                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+

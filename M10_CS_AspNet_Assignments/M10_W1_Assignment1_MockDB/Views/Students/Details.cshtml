@@ -1,0 +1,78 @@
+﻿@model M10_W1_Assignment1_MockDB.ModelsDto.StudentDto
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        id = localStorage.getItem("studentID");
+        firstName = localStorage.getItem("studentFname");
+        lastName = localStorage.getItem("studentLname");
+        email = localStorage.getItem("studentEmail");
+        phoneNum = localStorage.getItem("studentPhoneNum");
+        course = localStorage.getItem("studentCourse");
+
+        //using $ sign to access jQuery library
+
+        $("#stuID").append(id);
+        $("#stuFirstName").append(firstName);
+        $("#stuLastName").append(lastName);
+        $("#stuEmail").append(email);
+        $("#stuPhoneNum").append(phoneNum);
+        $("#stuCourse").append(course)
+        $("#stuTitle").append(lastName + ", " + firstName);
+        @*$("#exampleModal").modal('show');*@
+    });
+
+
+</script>
+<h1 onload="getStudents()">Details</h1>
+
+<div>
+    <h4 id="stuTitle"></h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.stuID)
+        </dt>
+        <dd class="col-sm-10" id="stuID" >
+            @Html.DisplayFor(model => model.stuID)
+        </dd>
+        <dt class="col-sm-2"  >   
+            @Html.DisplayNameFor(model => model.firstName)
+        </dt>
+        <dd class="col-sm-10" id="stuFirstName"> 
+            @Html.DisplayFor(model => model.firstName)
+        </dd>
+        <dt class="col-sm-2" >
+            @Html.DisplayNameFor(model => model.lastName)
+        </dt>
+        <dd class="col-sm-10" id="stuLastName">
+            @Html.DisplayFor(model => model.lastName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.email)
+        </dt>
+        <dd class="col-sm-10" id="stuEmail">
+            @Html.DisplayFor(model => model.email)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.phoneNum)
+        </dt>
+        <dd class="col-sm-10" id="stuPhoneNum">
+            @Html.DisplayFor(model => model.phoneNum)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.courseID)
+        </dt>
+        <dd class="col-sm-10" id="stuCourse">
+            @Html.DisplayFor(model => model.courseID)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Index">Back to List</a>
+</div>

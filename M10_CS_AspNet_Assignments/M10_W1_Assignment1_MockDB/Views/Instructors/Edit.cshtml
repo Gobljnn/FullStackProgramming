@@ -1,0 +1,76 @@
+﻿@model M10_W1_Assignment1_MockDB.ModelsDto.InstructorDto
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1 onload="getInstructors()">Edit</h1>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        id = localStorage.getItem("instructorID");
+        firstName = localStorage.getItem("instructorFname");
+        lastName = localStorage.getItem("instructorLname");
+        email = localStorage.getItem("instructorEmail");
+        course = localStorage.getItem("instructorCourse")
+
+        //using $ sign to access jQuery library
+
+        $("#insID").val(id);
+        $("#insFirstName").val(firstName);
+        $("#insLastName").val(lastName);
+        $("#insEmail").val(email);
+        $("#insCourse").val(course);
+        $("#insTitle").append(lastName + ", " + firstName);
+        @*$("#exampleModal").modal('show');*@
+    });
+
+
+</script>
+
+<h4 id="insTitle"></h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="insID" class="control-label"></label>
+                <input asp-for="insID" class="form-control" id="insID" readonly />
+                <span asp-validation-for="insID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="firstName" class="control-label"></label>
+                <input asp-for="firstName" class="form-control" id="insFirstName"/>
+                <span asp-validation-for="firstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="lastName" class="control-label"></label>
+                <input asp-for="lastName" class="form-control" id="insLastName"/>
+                <span asp-validation-for="lastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="email" class="control-label"></label>
+                <input asp-for="email" class="form-control" id="insEmail"/>
+                <span asp-validation-for="email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="courseID" class="control-label"></label>
+                <input asp-for="courseID" class="form-control" id="insCourse"/>
+                <span asp-validation-for="courseID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
