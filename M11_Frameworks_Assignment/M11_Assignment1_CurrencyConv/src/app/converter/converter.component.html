@@ -1,0 +1,28 @@
+<div class="container" *ngIf="rate">
+
+    <h1>Currency Converter</h1>
+
+
+    <br>
+
+    <input type="number" placeholder="amount" [(ngModel)]="amount">
+<br>
+
+    <label for="">From </label>
+    <select [(ngModel)]="from" name="" id="" (change)="loadRates()">
+        <option *ngFor="let c of getAllCurrency()" [value]="c">{{c}}</option>
+    </select>
+
+
+    <label for="">To </label>
+    <select [(ngModel)]="to" name="" id="">
+        <option *ngFor="let c of getAllCurrency()" [value]="c">{{c}}</option>
+    </select>
+
+    <br>
+
+    <b [style.color]="amount < 0 ? 'red': '' " *ngIf="rate">{{amount.toFixed(2)}} {{from}} = {{convert().toFixed(2)}} {{to}}</b>
+
+
+</div>
+
