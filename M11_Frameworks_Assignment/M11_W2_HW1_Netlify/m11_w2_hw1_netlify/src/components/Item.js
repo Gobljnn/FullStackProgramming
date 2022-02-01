@@ -4,7 +4,7 @@ const Item = ({item, onDelete, addCount, remCount}) => {
 
   return (
   <div className="item">
-      <div className={ `itemNum icons ${item.num <= 0 ?  'icons-red icons-zero' : '' }`}
+      <div className={ `itemNum ${item.num <= 0 ?  'icons-red icons-zero' : '' }`}
       key={item.id}>
       {item.num > 0 ? (item.num) : (item.num = 0, 'ZERO')}
 
