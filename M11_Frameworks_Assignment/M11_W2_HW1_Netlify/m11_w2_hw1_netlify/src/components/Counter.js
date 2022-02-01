@@ -5,7 +5,7 @@ import {useState} from 'react';
 
 
 
-const Counter = ({reset, addItem, reload}) => {
+const Counter = ({reset, addItem, reload, totalCount}) => {
 
   //use statehook to see the initial value of num to 0
   const [num, setNum] = useState(0)
@@ -22,7 +22,7 @@ const Counter = ({reset, addItem, reload}) => {
 
   return (
   
-  <div className="item item-top">
+  <div className = {`item item-top ${totalCount === 0 ? 'noItems' : '' } `}>
 
     <form action="" className="item item-top" onSubmit={onSubmit}>
 

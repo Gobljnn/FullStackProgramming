@@ -56,10 +56,12 @@ function App() {
     window.location.reload();
   }
 
+  const amount = items.filter((item) => item.num > 0).length
+   
   return (
     <div className="App">
 
-      <NavBar totalCount = {items.filter((item) => item.num > 0).length} ></NavBar>
+      <NavBar totalCount = {amount} ></NavBar>
 
       <div className="containers">
 
@@ -67,6 +69,7 @@ function App() {
         reset={IReset}
         addItem={addIItem}
         reload={IRestart}
+        totalCount = {amount}
       ></Counter>
 
       {
@@ -80,7 +83,7 @@ function App() {
               >
             </Items>) : (
 
-            <h1>No Items in the cart</h1>
+            <h1 className="noItems">No products in the cart</h1>
 
             )
       }
