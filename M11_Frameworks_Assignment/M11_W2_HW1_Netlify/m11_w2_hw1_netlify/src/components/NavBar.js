@@ -19,18 +19,11 @@ function NavBar(props){
             </div>
             
         </div>);
-        
-            
-            
-            
-        
-        
-    // }
 
 }
 
 NavBar.defaultProps = {
-    title: 'Netlify App (Shopping Cart)',
+    title: 'React App (Shopping Cart)',
 }
 
 NavBar.propTypes = {
