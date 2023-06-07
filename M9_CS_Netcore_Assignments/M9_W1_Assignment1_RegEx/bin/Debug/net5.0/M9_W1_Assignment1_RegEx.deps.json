@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "M9_W1_Assignment1_RegEx/1.0.0": {
+        "runtime": {
+          "M9_W1_Assignment1_RegEx.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M9_W1_Assignment1_RegEx/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

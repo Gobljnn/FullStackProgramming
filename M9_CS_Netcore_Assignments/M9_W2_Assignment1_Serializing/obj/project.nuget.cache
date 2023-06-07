@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "27R3p3QkyCz9ckKF+WZRWtDBKKHuefqwKR1RbO45E0GasBF2jzIV+NsrMqXcAioPIn/ngdGwSHG/gKC5HelzeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dammy\\OneDrive\\Documents\\Full Stack Programming\\M9_C#_NetCore\\Assignments\\M9_W2_Assignment1_Serializing\\M9_W2_Assignment1_Serializing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dammy\\.nuget\\packages\\documentformat.openxml\\2.14.0\\documentformat.openxml.2.14.0.nupkg.sha512",
+    "C:\\Users\\Dammy\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment2_TheZoo\M8_W2_TheZoo\bin\Debug\net5.0\M8_W2_TheZoo.exe
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment2_TheZoo\M8_W2_TheZoo\bin\Debug\net5.0\M8_W2_TheZoo.deps.json
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment2_TheZoo\M8_W2_TheZoo\bin\Debug\net5.0\M8_W2_TheZoo.runtimeconfig.json
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment2_TheZoo\M8_W2_TheZoo\bin\Debug\net5.0\M8_W2_TheZoo.runtimeconfig.dev.json
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment2_TheZoo\M8_W2_TheZoo\bin\Debug\net5.0\M8_W2_TheZoo.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment2_TheZoo\M8_W2_TheZoo\bin\Debug\net5.0\ref\M8_W2_TheZoo.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment2_TheZoo\M8_W2_TheZoo\bin\Debug\net5.0\M8_W2_TheZoo.pdb
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment2_TheZoo\M8_W2_TheZoo\obj\Debug\net5.0\M8_W2_TheZoo.csproj.AssemblyReference.cache
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment2_TheZoo\M8_W2_TheZoo\obj\Debug\net5.0\M8_W2_TheZoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment2_TheZoo\M8_W2_TheZoo\obj\Debug\net5.0\M8_W2_TheZoo.AssemblyInfoInputs.cache
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment2_TheZoo\M8_W2_TheZoo\obj\Debug\net5.0\M8_W2_TheZoo.AssemblyInfo.cs
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment2_TheZoo\M8_W2_TheZoo\obj\Debug\net5.0\M8_W2_TheZoo.csproj.CoreCompileInputs.cache
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment2_TheZoo\M8_W2_TheZoo\obj\Debug\net5.0\M8_W2_TheZoo.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment2_TheZoo\M8_W2_TheZoo\obj\Debug\net5.0\ref\M8_W2_TheZoo.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment2_TheZoo\M8_W2_TheZoo\obj\Debug\net5.0\M8_W2_TheZoo.pdb
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment2_TheZoo\M8_W2_TheZoo\obj\Debug\net5.0\M8_W2_TheZoo.genruntimeconfig.cache

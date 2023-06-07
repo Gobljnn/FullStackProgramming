@@ -1,0 +1,32 @@
+Category => 1
+Category Name => Beverages
+Category Description: Soft drinks, coffees, teas, beers, and ales
+
+Category => 2
+Category Name => Condiments
+Category Description: Sweet and savory sauces, relishes, spreads, and seasonings
+
+Category => 3
+Category Name => Confections
+Category Description: Desserts, candies, and sweet breads
+
+Category => 4
+Category Name => Dairy Products
+Category Description: Cheeses
+
+Category => 5
+Category Name => Grains/Cereals
+Category Description: Breads, crackers, pasta, and cereal
+
+Category => 6
+Category Name => Meat/Poultry
+Category Description: Prepared meats
+
+Category => 7
+Category Name => Produce
+Category Description: Dried fruit and bean curd
+
+Category => 8
+Category Name => Seafood
+Category Description: Seaweed and fish
+

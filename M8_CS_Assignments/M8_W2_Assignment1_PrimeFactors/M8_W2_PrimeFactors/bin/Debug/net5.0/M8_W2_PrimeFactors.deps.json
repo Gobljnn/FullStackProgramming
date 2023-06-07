@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "M8_W2_PrimeFactors/1.0.0": {
+        "runtime": {
+          "M8_W2_PrimeFactors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M8_W2_PrimeFactors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

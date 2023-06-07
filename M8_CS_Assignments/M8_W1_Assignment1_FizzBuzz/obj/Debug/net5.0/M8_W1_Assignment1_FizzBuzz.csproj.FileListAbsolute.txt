@@ -1,0 +1,31 @@
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_Assignment1_FizzBuzz\bin\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.exe
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_Assignment1_FizzBuzz\bin\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.deps.json
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_Assignment1_FizzBuzz\bin\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.runtimeconfig.json
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_Assignment1_FizzBuzz\bin\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.runtimeconfig.dev.json
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_Assignment1_FizzBuzz\bin\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_Assignment1_FizzBuzz\bin\Debug\net5.0\ref\M8_W1_Assignment1_FizzBuzz.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_Assignment1_FizzBuzz\bin\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.pdb
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_Assignment1_FizzBuzz\obj\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_Assignment1_FizzBuzz\obj\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_Assignment1_FizzBuzz\obj\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.AssemblyInfo.cs
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_Assignment1_FizzBuzz\obj\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_Assignment1_FizzBuzz\obj\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_Assignment1_FizzBuzz\obj\Debug\net5.0\ref\M8_W1_Assignment1_FizzBuzz.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_Assignment1_FizzBuzz\obj\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.pdb
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W1_Assignment1_FizzBuzz\obj\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.genruntimeconfig.cache
+C:\Users\Dammy\Desktop\M8_W1_Assignment1_FizzBuzz\bin\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.exe
+C:\Users\Dammy\Desktop\M8_W1_Assignment1_FizzBuzz\bin\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.deps.json
+C:\Users\Dammy\Desktop\M8_W1_Assignment1_FizzBuzz\bin\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.runtimeconfig.json
+C:\Users\Dammy\Desktop\M8_W1_Assignment1_FizzBuzz\bin\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.runtimeconfig.dev.json
+C:\Users\Dammy\Desktop\M8_W1_Assignment1_FizzBuzz\bin\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.dll
+C:\Users\Dammy\Desktop\M8_W1_Assignment1_FizzBuzz\bin\Debug\net5.0\ref\M8_W1_Assignment1_FizzBuzz.dll
+C:\Users\Dammy\Desktop\M8_W1_Assignment1_FizzBuzz\bin\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.pdb
+C:\Users\Dammy\Desktop\M8_W1_Assignment1_FizzBuzz\obj\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.csproj.AssemblyReference.cache
+C:\Users\Dammy\Desktop\M8_W1_Assignment1_FizzBuzz\obj\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dammy\Desktop\M8_W1_Assignment1_FizzBuzz\obj\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Dammy\Desktop\M8_W1_Assignment1_FizzBuzz\obj\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.AssemblyInfo.cs
+C:\Users\Dammy\Desktop\M8_W1_Assignment1_FizzBuzz\obj\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Dammy\Desktop\M8_W1_Assignment1_FizzBuzz\obj\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.dll
+C:\Users\Dammy\Desktop\M8_W1_Assignment1_FizzBuzz\obj\Debug\net5.0\ref\M8_W1_Assignment1_FizzBuzz.dll
+C:\Users\Dammy\Desktop\M8_W1_Assignment1_FizzBuzz\obj\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.pdb
+C:\Users\Dammy\Desktop\M8_W1_Assignment1_FizzBuzz\obj\Debug\net5.0\M8_W1_Assignment1_FizzBuzz.genruntimeconfig.cache

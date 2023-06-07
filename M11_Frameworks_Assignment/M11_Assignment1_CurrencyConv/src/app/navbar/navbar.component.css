@@ -1,0 +1,27 @@
+
+  img.logo{
+    border-radius: 75%;
+}
+
+nav > a{
+  margin: 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  font-size: 20px;
+  
+}
+
+.nav-items{
+  align-items: center;
+  position: relative;
+    /* top: 0; */
+    left: 0;
+    /* right: 0; */
+    height: 60px;
+    display: flex;
+    color: white;
+    font-weight: 600;
+    max-width: 5000px;
+}

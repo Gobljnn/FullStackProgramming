@@ -1,0 +1,16 @@
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment1_PrimeFactors\M8_W2_PrimeFactors\bin\Debug\net5.0\M8_W2_PrimeFactors.exe
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment1_PrimeFactors\M8_W2_PrimeFactors\bin\Debug\net5.0\M8_W2_PrimeFactors.deps.json
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment1_PrimeFactors\M8_W2_PrimeFactors\bin\Debug\net5.0\M8_W2_PrimeFactors.runtimeconfig.json
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment1_PrimeFactors\M8_W2_PrimeFactors\bin\Debug\net5.0\M8_W2_PrimeFactors.runtimeconfig.dev.json
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment1_PrimeFactors\M8_W2_PrimeFactors\bin\Debug\net5.0\M8_W2_PrimeFactors.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment1_PrimeFactors\M8_W2_PrimeFactors\bin\Debug\net5.0\ref\M8_W2_PrimeFactors.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment1_PrimeFactors\M8_W2_PrimeFactors\bin\Debug\net5.0\M8_W2_PrimeFactors.pdb
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment1_PrimeFactors\M8_W2_PrimeFactors\obj\Debug\net5.0\M8_W2_PrimeFactors.csproj.AssemblyReference.cache
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment1_PrimeFactors\M8_W2_PrimeFactors\obj\Debug\net5.0\M8_W2_PrimeFactors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment1_PrimeFactors\M8_W2_PrimeFactors\obj\Debug\net5.0\M8_W2_PrimeFactors.AssemblyInfoInputs.cache
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment1_PrimeFactors\M8_W2_PrimeFactors\obj\Debug\net5.0\M8_W2_PrimeFactors.AssemblyInfo.cs
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment1_PrimeFactors\M8_W2_PrimeFactors\obj\Debug\net5.0\M8_W2_PrimeFactors.csproj.CoreCompileInputs.cache
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment1_PrimeFactors\M8_W2_PrimeFactors\obj\Debug\net5.0\M8_W2_PrimeFactors.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment1_PrimeFactors\M8_W2_PrimeFactors\obj\Debug\net5.0\ref\M8_W2_PrimeFactors.dll
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment1_PrimeFactors\M8_W2_PrimeFactors\obj\Debug\net5.0\M8_W2_PrimeFactors.pdb
+C:\Users\Dammy\OneDrive\Documents\Full Stack Programming\M8_C#\M8_W2_Assignment1_PrimeFactors\M8_W2_PrimeFactors\obj\Debug\net5.0\M8_W2_PrimeFactors.genruntimeconfig.cache
