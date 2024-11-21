@@ -1,0 +1,24 @@
+/* Preventing the browser from using its own rules - 'zeroing' the styles */
+
+/* Multi-purpose container - centered div */
+.container {
+    width: 90%;
+    max-width: 1080px;
+    margin: 30px;
+  }
+  
+h1, h2, div, p, a, li {
+    -webkit-font-smoothing: antialiased;
+     -moz-osx-font-smoothing: grayscale;
+  }
+  
+
+/* footer */
+footer {
+  text-align: right;
+  margin-top: 25px;
+  position: fixed;
+  width: 99%;
+  bottom: 0;
+  vertical-align: baseline ;
+}
